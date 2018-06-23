@@ -1,6 +1,12 @@
-This aplication was developed with the purpose of keeping track of devices (scales) and assert if their state is in accordance with the state precision laws for scales as customers may sue the company if they are being overcharged if the weight displayed differs from the real weight of the product.
+This aplication was developed in Java SE (a.k.a. Core) with the purpose of keeping track of devices (scales) and assert if their state is in accordance with the state precision laws for scales as customers may sue the company if they are being overcharged if the weight displayed differs from the real weight of the product.
 
 This app was developed for Windows systems  and requires Java 6.0 or above. A MySQL database maintained by my employer hosts the database. The format of the GUI was made to reflect the resolution of the tablet in which it was to be implemented on.
+
+Description of contents:
+Scale Inventory: contains all files necessary for the application to run (further description below)
+ScalePM: contains the project files such as binarys and Java scripts
+
+
 
 The app contains 5 panels: (1) Crreate a Preventive Maintenance record (2) Generate Excel records (3) CRUD scale data (4) CRUD worstation data (a scale is assigned to a workstation for tracking purposes) (5) CRUD repair records
 
