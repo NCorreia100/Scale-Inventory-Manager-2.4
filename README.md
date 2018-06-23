@@ -2,7 +2,7 @@ This aplication was developed in Java SE (a.k.a. Core) with the purpose of keepi
 
 This app was developed for Windows systems  and requires Java 6.0 or above. A MySQL database maintained by my employer hosts the database. The format of the GUI was made to reflect the resolution of the tablet in which it was to be implemented on.
 
-Description of contents:
+Description of contents:\n
 Scale Inventory: contains all files necessary for the application to run (further description below)
 ScalePM: contains the project files such as binarys and Java scripts
 
